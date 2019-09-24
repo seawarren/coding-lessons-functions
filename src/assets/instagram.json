@@ -1,0 +1,2101 @@
+{
+  "location": {
+    "id": "396227",
+    "name": "North Gate Hall",
+    "has_public_page": true,
+    "lat": 37.8749147403,
+    "lng": -122.2595914129,
+    "slug": "north-gate-hall",
+    "blurb": "",
+    "website": "",
+    "phone": "",
+    "primary_alias_on_fb": "",
+    "address_json": {
+      "street_address": "",
+      "zip_code": "94709",
+      "city_name": "Berkeley, California",
+      "region_name": "",
+      "country_code": "US",
+      "exact_city_match": false,
+      "exact_region_match": false,
+      "exact_country_match": false
+    },
+    "profile_pic_url": "https://scontent-sjc3-1.cdninstagram.com/vp/31bd735db2127885441c2063f1ae04e0/5E16D90B/t51.2885-15/e35/s150x150/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+    "edge_location_to_media": {
+      "count": 352,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "1137538373512758353"
+      },
+      "edges": [
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1572738531699218354",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Lots of activity as our library renovation moves towards the finish line!"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BXTfVyigFey",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1501705064,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/0a3fe2f152d3c358ed65b9e15b101458/5E1D62E7/t51.2885-15/e35/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+            "edge_liked_by": {
+              "count": 42
+            },
+            "edge_media_preview_like": {
+              "count": 42
+            },
+            "owner": {
+              "id": "5441048070"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/cf898253b7abb9ac61effd7a52a2cff4/5E22F302/t51.2885-15/sh0.08/e35/s640x640/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/0681856e2cc66324e5204669ca0d6113/5E00D7A5/t51.2885-15/e35/s150x150/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/22687e5af9c6e6d72610bec9fd8cde85/5E0066EF/t51.2885-15/e35/s240x240/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/762db4e9522755524dd2c2e003c1d5c4/5E19D955/t51.2885-15/e35/s320x320/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/23b887230b228b7e4cce926a53574198/5E22E20F/t51.2885-15/e35/s480x480/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/cf898253b7abb9ac61effd7a52a2cff4/5E22F302/t51.2885-15/sh0.08/e35/s640x640/20686622_281584428988026_1273016314985709568_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1562655534809007802",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Lovely welcome reception!"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BWvqu36lsa6",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1500503077,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/5358e3a2ccd1420c377f4f8212edc884/5E31021C/t51.2885-15/e35/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+            "edge_liked_by": {
+              "count": 3
+            },
+            "edge_media_preview_like": {
+              "count": 3
+            },
+            "owner": {
+              "id": "5756106575"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/9e78db32b59a1539b5d64ae2ba127be6/5E1BA9F9/t51.2885-15/sh0.08/e35/s640x640/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6d462e718ddbb9a4d4c1ea41882f2085/5E3AA65E/t51.2885-15/e35/s150x150/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/0824b6189a1a004f296a27f2e2e49bef/5E174714/t51.2885-15/e35/s240x240/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/aa3efaae0e2f29f1db1ddf737157b73a/5E26F6AE/t51.2885-15/e35/s320x320/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a8eaf906362e05b95afbda34c75ebc93/5E3279F4/t51.2885-15/e35/s480x480/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/9e78db32b59a1539b5d64ae2ba127be6/5E1BA9F9/t51.2885-15/sh0.08/e35/s640x640/20180487_310238926105695_1652069250694643712_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1514273038412212047",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Graduation Day samosas-- it was the kind of day that precedes a broth/juice/greens 'cleanse' - I have never seen so much food at one lunch! It was the most delicious Saturday! Kerala's finest showered us in food while we celebrated the work of the wonderful, wanderlusty, winning at staying woke @manjula_v who joins the ranks of the world's truth tellers as an official graduate of @ucberkeleyofficial School of Journalism. It was a very good day and these samosas were just the beginning. #rangetopchessbox #holistichealth #veganaswewannabe #samosas #cookingislove #foodisgorgeous #calisunshine #weareimmigrants #lovelovelove"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BUDx04zgudP",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1494735434,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/e4382bdca11df0759809fedc4d1823a9/5E328DFB/t51.2885-15/e35/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "edge_liked_by": {
+              "count": 22
+            },
+            "edge_media_preview_like": {
+              "count": 22
+            },
+            "owner": {
+              "id": "1648904443"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/37e7a820611e7f17a2bc87d51b7c92de/5E00BD1E/t51.2885-15/sh0.08/e35/s640x640/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/2d895205d0a5572c5501836f084719d8/5E1F9AB9/t51.2885-15/e35/s150x150/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c40938a6b81b52b8a2699276b8757629/5E3D30F3/t51.2885-15/e35/s240x240/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8e4bc6673caf914ec4fb46abb56fe302/5E1FC149/t51.2885-15/e35/s320x320/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c4fe8a8e1ba3da57bffbf1ada746057c/5E366613/t51.2885-15/e35/s480x480/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/37e7a820611e7f17a2bc87d51b7c92de/5E00BD1E/t51.2885-15/sh0.08/e35/s640x640/18381718_831958573626242_3524633347747741696_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1463905423852784135",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "My first week in #Berkeley was officially more than a year ago.\n\n#timeflies #mundusjournalism #travel #jschool #ucberkeley #memories"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BRQ1joVg0oH",
+            "edge_media_to_comment": {
+              "count": 5
+            },
+            "taken_at_timestamp": 1488731147,
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/9d81d0c689d77ea47d4672b9b4a3ac6c/5E3964BF/t51.2885-15/e35/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+            "edge_liked_by": {
+              "count": 62
+            },
+            "edge_media_preview_like": {
+              "count": 62
+            },
+            "owner": {
+              "id": "277494207"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/f0a9a2c56b116b54e45a311c021fbf74/5E25CCA8/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e53d56c2bca6b518cf32c73e67c924d0/5E3A5F98/t51.2885-15/e35/c0.135.1080.1080a/s150x150/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/b7fbb51142ad6a334911115babbceeb2/5E20ED9E/t51.2885-15/e35/c0.135.1080.1080a/s240x240/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/defeb33d63a3b40ea09fe942865b2a20/5E34DEE0/t51.2885-15/e35/c0.135.1080.1080a/s320x320/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f0480e0b4f5dc60da263bc817da98466/5E25E7A7/t51.2885-15/e35/c0.135.1080.1080a/s480x480/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f0a9a2c56b116b54e45a311c021fbf74/5E25CCA8/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/16906309_1330209720350469_1090861353188458496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1455180109493765962",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Robert Frank Exhibit at UC Berkeley - Last Friday a double exhibit of Robert Frank's work opened at UC Berkeley.  It was originally suppose to encompass at North Hall, but spilled across campus to Kroaber Hall, so on Friday I took a sneak peak at the Kroaber Hall since it's a few hundred feet from where I work.  That evening I caught the rest of the exhibit across campus at North Gate Hall. I think this is either the 3rd or the 4th time I've seen a Robert Frank's work in the last 10 years, but since I'm getting old my mind isn't quite sure.  This time around though I didn't go so much to see the photographs, but to see the metadata around the photos.  For instance and the North Gate Hall, you can find several of the contact sheets and copies of the original notes used in the series \"The Americans\". For a metadata nerd like me, this was divine (can I say contact sheets again?). I even (briefly) ran into that guy from Magnum photos again, unfortunately this time around I didn't have two shots of bourbon in me. Anyway, go and see the double exhibit if you live in the greater bay and berkeley area, it's only open for 2 weeks.\n\n#robertfrank #theamericans @goldbergjim #raisedbywolves @magnumphotos #iphone #myucberkeley  #wursterhooligan #berkeley #berkeleypov #ucberkeley #gobears #cal #nodesk #uofcalifornia #sfbay #sfbayarea #ucberkeleyofficial #wursterlife #vsco #vscocam #northgatehall #datavisualization #iloveucberkeley #kroeberhall"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BQx1pmGlwdK",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1487691008,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/38c50b31a83d78929c4681113af7aa2f/5E3408E5/t51.2885-15/e35/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "edge_liked_by": {
+              "count": 21
+            },
+            "edge_media_preview_like": {
+              "count": 21
+            },
+            "owner": {
+              "id": "2311908337"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/94f4638673d09238c83398e78a679bee/5E20DC00/t51.2885-15/sh0.08/e35/s640x640/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6e20d7a93a3063e269063cce5d99ebb5/5E1F10A7/t51.2885-15/e35/s150x150/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5b0831a236554d556f1014669129a5a3/5E1ABAED/t51.2885-15/e35/s240x240/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/998e68a963200a9868e76ecd212832ef/5E1B7657/t51.2885-15/e35/s320x320/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f02aee89db25c6b2f3cc50d9a8897767/5E2CB60D/t51.2885-15/e35/s480x480/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/94f4638673d09238c83398e78a679bee/5E20DC00/t51.2885-15/sh0.08/e35/s640x640/16465245_162495180925168_2648930988297551872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1452634266377790119",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Two favorites, at the Robert Frank pop-up show, North Gate Hall, Berkeley. #robertfrank #theamericans"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BQoyys8AiKn",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1487387520,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/f0e6b843bdeb451fdbefd6d3af8f9482/5E1AE1D1/t51.2885-15/e35/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+            "edge_liked_by": {
+              "count": 111
+            },
+            "edge_media_preview_like": {
+              "count": 111
+            },
+            "owner": {
+              "id": "341547491"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/0c9ba25f134a8dd090dd6c34d458d49d/5E394F34/t51.2885-15/sh0.08/e35/s640x640/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/7ab2acbe88b6eae728f4e560c31bc0a9/5E184493/t51.2885-15/e35/s150x150/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/7b5c807da98d7945eb7300964d96aac0/5E3C31D9/t51.2885-15/e35/s240x240/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/59ae7e055a1c12bdca1ee1637ccf949b/5E00A063/t51.2885-15/e35/s320x320/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c29cd1c264e30535667fbd200e4178b6/5E23E139/t51.2885-15/e35/s480x480/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/0c9ba25f134a8dd090dd6c34d458d49d/5E394F34/t51.2885-15/sh0.08/e35/s640x640/16788918_584381455090479_7193720808030601216_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1363447906212539178",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Trying to look cute even though I'm stressed"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BLr8KWXjGsq",
+            "edge_media_to_comment": {
+              "count": 5
+            },
+            "taken_at_timestamp": 1476755677,
+            "dimensions": {
+              "height": 810,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/b8b7c9663215a65aa377b9fbca1a66af/5E209FBE/t51.2885-15/e35/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+            "edge_liked_by": {
+              "count": 161
+            },
+            "edge_media_preview_like": {
+              "count": 161
+            },
+            "owner": {
+              "id": "428332340"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/c6483db88a94395493351669672bfbad/5E26802C/t51.2885-15/sh0.08/e35/c135.0.810.810a/s640x640/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/08aba884471b1b8eb98c5ada8d343079/5E202E6B/t51.2885-15/e35/c135.0.810.810a/s150x150/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/ec81048a6c9c4c71b45ee13afd5e6be6/5E20F06D/t51.2885-15/e35/c135.0.810.810a/s240x240/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c75952d51fcf3ad346c75aab17e45506/5E005B13/t51.2885-15/e35/c135.0.810.810a/s320x320/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/53b8d3d008221114b14bf2633bd2d3f7/5E35E054/t51.2885-15/e35/c135.0.810.810a/s480x480/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c6483db88a94395493351669672bfbad/5E26802C/t51.2885-15/sh0.08/e35/c135.0.810.810a/s640x640/14659340_1587059281600896_2737768671668600832_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1361006496989521454",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Maybe the coziest class I'll ever attend. How fitting that it's Heat Transfer. #myucberkeley #fall🍁"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BLjRDK2DyYu",
+            "edge_media_to_comment": {
+              "count": 6
+            },
+            "taken_at_timestamp": 1476464639,
+            "dimensions": {
+              "height": 967,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/214778d01d9d39db7451ce6e40b7bf88/5E2E6A24/t51.2885-15/e35/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "edge_liked_by": {
+              "count": 35
+            },
+            "edge_media_preview_like": {
+              "count": 35
+            },
+            "owner": {
+              "id": "373196050"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/c1a96d7cea05025cc68edc2491f7025d/5E1E386D/t51.2885-15/sh0.08/e35/c56.0.967.967a/s640x640/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/fcb58182dc0e34946a4eb0556c9d9b31/5E361267/t51.2885-15/e35/c56.0.967.967a/s150x150/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f0596b95091676b2d6e2c4671a3ac3d3/5E17472D/t51.2885-15/e35/c56.0.967.967a/s240x240/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/ddb156c94e78125592cae916f8e0b4c2/5E014997/t51.2885-15/e35/c56.0.967.967a/s320x320/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/7d214f1004cb259c429fe981bc3fe1d7/5E2E75CD/t51.2885-15/e35/c56.0.967.967a/s480x480/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c1a96d7cea05025cc68edc2491f7025d/5E1E386D/t51.2885-15/sh0.08/e35/c56.0.967.967a/s640x640/14716627_214358732311193_4614037440007503872_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1350305504945841708",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Seeya in the courtyard tmrw. 🍻👯😘 #tbt to 🎓"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BK9P7PYjSYs",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1475188981,
+            "dimensions": {
+              "height": 810,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/0aacbceef33a54b63e04b3e74a4d3262/5E3B2ED6/t51.2885-15/e35/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "edge_liked_by": {
+              "count": 20
+            },
+            "edge_media_preview_like": {
+              "count": 20
+            },
+            "owner": {
+              "id": "49134594"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/c5ffc31f238776c909308212b9a8340d/5E2689A7/t51.2885-15/sh0.08/e35/c120.0.720.720a/s640x640/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/cbc385b6410bdd2a5c5ee040144115c1/5E3130E0/t51.2885-15/e35/c120.0.720.720a/s150x150/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/ccafd3e15885b40fd28052c98c377273/5E2D7DE6/t51.2885-15/e35/c120.0.720.720a/s240x240/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/363e6585a596ae715a5a1931345ce4e3/5E3ADD98/t51.2885-15/e35/c120.0.720.720a/s320x320/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a6d3adfe390f6038f0bcb8a0e1816ace/5E3995DF/t51.2885-15/e35/c120.0.720.720a/s480x480/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c5ffc31f238776c909308212b9a8340d/5E2689A7/t51.2885-15/sh0.08/e35/c120.0.720.720a/s640x640/14540428_1746363462296042_7631369011896254464_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1330111272146896424",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "I do love a good window.\n#ucberkeley #doelibrary #libraryporn #window #studytime"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BJ1gSegDwYo",
+            "edge_media_to_comment": {
+              "count": 2
+            },
+            "taken_at_timestamp": 1472781641,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/8eb08ca88a5b7640095691f4c2f9fe3b/5E172949/t51.2885-15/e35/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "edge_liked_by": {
+              "count": 42
+            },
+            "edge_media_preview_like": {
+              "count": 42
+            },
+            "owner": {
+              "id": "9758779"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/bf2c97faacff15fa59b3f9f63367220c/5E3D8085/t51.2885-15/sh0.08/e35/s640x640/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a4c8571b86b61f4c123f76e64b6adf0e/5E17EE41/t51.2885-15/e35/s150x150/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/14f6ebbaf10f0351bf853db660963e7b/5E33C11E/t51.2885-15/e35/s240x240/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5cde6be87d4d25ee6dd4e9e8ae37a33a/5E01F7C5/t51.2885-15/e35/s320x320/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/92a7053b6855b6f779afdec18c5a2a11/5E1934D4/t51.2885-15/e35/s480x480/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/bf2c97faacff15fa59b3f9f63367220c/5E3D8085/t51.2885-15/sh0.08/e35/s640x640/14134698_254146051646402_1501331315_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1329988185832297133",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "This is actually an academic building #ucberkeley #berkeley #studyspot"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BJ1ETVcABKt",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1472766968,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/9892682902606ed9e695bf0407928fe3/5E263749/t51.2885-15/e35/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+            "edge_liked_by": {
+              "count": 19
+            },
+            "edge_media_preview_like": {
+              "count": 19
+            },
+            "owner": {
+              "id": "3774481196"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/3b4ca2371613551d7b194d3b2b2ea3b4/5E205B85/t51.2885-15/sh0.08/e35/s640x640/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8921a53b9bd4cab92be1e10d5a6b1949/5E3B4941/t51.2885-15/e35/s150x150/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/bd7f75feb73070a1df7fcbd9bbd37c80/5E1B7C1E/t51.2885-15/e35/s240x240/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/b1138d89be21f7a28b7d730bb37b6528/5E32B5C5/t51.2885-15/e35/s320x320/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/72763723dc8d4a7eb05a20ede3d83b3e/5E2F09D4/t51.2885-15/e35/s480x480/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/3b4ca2371613551d7b194d3b2b2ea3b4/5E205B85/t51.2885-15/sh0.08/e35/s640x640/14027211_179371085825712_1372779709_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1261310448243724337",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Day 8, Kingman to Berkeley. There are no words for this last week, so I hope everyone has a great Memorial Day tomorrow."
+                  }
+                }
+              ]
+            },
+            "shortcode": "BGBEyuDDlAx",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1464579944,
+            "dimensions": {
+              "height": 608,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/25679f05388115f22cdc3912609dbf3d/5E340508/t51.2885-15/e35/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+            "edge_liked_by": {
+              "count": 5
+            },
+            "edge_media_preview_like": {
+              "count": 5
+            },
+            "owner": {
+              "id": "504345915"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/5e43e270435ca86ceb862f025a9f2cdf/5E1B16C5/t51.2885-15/e35/c236.0.608.608a/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/b477e6790495584f415da8c6740c769e/5E38AC5B/t51.2885-15/e35/c236.0.608.608a/s150x150/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5d0b6a8518e2f2e7a5f706f14b6096c8/5E032C04/t51.2885-15/e35/c236.0.608.608a/s240x240/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a01559d1599a20a9a67d6b794805aef9/5E32EDDF/t51.2885-15/e35/c236.0.608.608a/s320x320/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/531ccc6b4265c0862e304d0152408279/5E01ACCE/t51.2885-15/e35/c236.0.608.608a/s480x480/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5e43e270435ca86ceb862f025a9f2cdf/5E1B16C5/t51.2885-15/e35/c236.0.608.608a/13277705_267493240271013_1030901647_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1251179483196858792",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "The ladies of journalism."
+                  }
+                }
+              ]
+            },
+            "shortcode": "BFdFRxmNKGo",
+            "edge_media_to_comment": {
+              "count": 2
+            },
+            "taken_at_timestamp": 1463372238,
+            "dimensions": {
+              "height": 811,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/d680c55acf34dc853dfeca7cf02400ec/5E01DB17/t51.2885-15/e35/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+            "edge_liked_by": {
+              "count": 43
+            },
+            "edge_media_preview_like": {
+              "count": 43
+            },
+            "owner": {
+              "id": "25798367"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/8ea099d7f5f7389bf58d47c75b2b09fc/5E3CCF4B/t51.2885-15/sh0.08/e35/c134.0.811.811a/s640x640/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/802ef3051c4bc31f16b45ed205fb93a3/5E1FE21D/t51.2885-15/e35/c134.0.811.811a/s150x150/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/0d363ff21eb4bfd1008c4472ce4226d2/5E1966A5/t51.2885-15/e35/c134.0.811.811a/s240x240/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/3cf7ae70d0c51d5b9cddcd218063e22f/5E1C5105/t51.2885-15/e35/c134.0.811.811a/s320x320/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e68026ff33c74860a15b6eb1fb711de7/5E3D1CEF/t51.2885-15/e35/c134.0.811.811a/s480x480/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8ea099d7f5f7389bf58d47c75b2b09fc/5E3CCF4B/t51.2885-15/sh0.08/e35/c134.0.811.811a/s640x640/13166776_1763369423906723_1651162749_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1251075867388527218",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Congratulations to #ucberkeley class of 2016! So proud of you my #jschooler #friends! #graduation #journalists #pulitzerwinnerstobe"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BFctt92wcJy",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1463359887,
+            "dimensions": {
+              "height": 722,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/3903ecd0107c0d4768d38e8ef2ba9a40/5E1E72F4/t51.2885-15/e35/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "edge_liked_by": {
+              "count": 19
+            },
+            "edge_media_preview_like": {
+              "count": 19
+            },
+            "owner": {
+              "id": "277494207"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/0a3d0083ce19968274d9169b29f10099/5E367D2C/t51.2885-15/sh0.08/e35/c179.0.722.722a/s640x640/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/dcf3ea733e255d51704640d4c2742beb/5E24647B/t51.2885-15/e35/c179.0.722.722a/s150x150/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/523f57808340cd836ec46c6814e52dc8/5E1F9727/t51.2885-15/e35/c179.0.722.722a/s240x240/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/023cc90af37498d98de49bb3076233bc/5E2EE8DD/t51.2885-15/e35/c179.0.722.722a/s320x320/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e43efd22fb40b7ff4725b3696d58b9de/5E18DB6A/t51.2885-15/e35/c179.0.722.722a/s480x480/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/0a3d0083ce19968274d9169b29f10099/5E367D2C/t51.2885-15/sh0.08/e35/c179.0.722.722a/s640x640/13256582_239428153092106_657299525_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1250932890083511888",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "That's @lyssa_182 graduating. 🎉🎓🍺"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BFcNNX3R85Q",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1463342842,
+            "dimensions": {
+              "height": 809,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/b3396d49c7b86bbcae66984397aa89b4/5E21F810/t51.2885-15/e35/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+            "edge_liked_by": {
+              "count": 17
+            },
+            "edge_media_preview_like": {
+              "count": 17
+            },
+            "owner": {
+              "id": "49134594"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/a5ccad65e9bce16836eab0bb9c50f853/5E34BF8A/t51.2885-15/sh0.08/e35/c135.0.809.809a/s640x640/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/4d5dbd4b1defd7c00f11e22007c2b826/5E2F4EA5/t51.2885-15/e35/c135.0.809.809a/s150x150/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/fe8cf979afc2841786f641bf15ca6291/5E238CFA/t51.2885-15/e35/c135.0.809.809a/s240x240/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6a103b234710105d799290749d0c8317/5E305221/t51.2885-15/e35/c135.0.809.809a/s320x320/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/514289849e9b57460efde7a140595ee1/5E35D130/t51.2885-15/e35/c135.0.809.809a/s480x480/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a5ccad65e9bce16836eab0bb9c50f853/5E34BF8A/t51.2885-15/sh0.08/e35/c135.0.809.809a/s640x640/13248924_843021665803268_1480028997_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1235274191712369241",
+            "edge_media_to_caption": {
+              "edges": []
+            },
+            "shortcode": "BEkk1UlOTpZ",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1461476180,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/130959c99430150c23d71d98c0698b2e/5E339EE2/t51.2885-15/e35/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "edge_liked_by": {
+              "count": 11
+            },
+            "edge_media_preview_like": {
+              "count": 11
+            },
+            "owner": {
+              "id": "801453661"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/29af8c01d5c1c19e31672f0fe8505467/5E356D49/t51.2885-15/sh0.08/e35/s640x640/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d077540784eb6ed47f48b4bfff2f001c/5E2DBD28/t51.2885-15/e35/s150x150/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/eb75b35bfd259d7b80b71802cf7366e4/5E23A490/t51.2885-15/e35/s240x240/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/50497063680e8c941ed8d41efba21941/5E1B3530/t51.2885-15/e35/s320x320/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/269924f8f47f14a9218f894ca3ff48b8/5E37B5DA/t51.2885-15/e35/s480x480/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/29af8c01d5c1c19e31672f0fe8505467/5E356D49/t51.2885-15/sh0.08/e35/s640x640/13092232_1750169241864554_1808362392_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=102",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1233885991350157534",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "A #class on the grass should be a routine. #jschool #ucberkeley #California #USA"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BEfpMWPwcDe",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1461310694,
+            "dimensions": {
+              "height": 608,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/f311d494da67409391d6576b12de6cc6/5E38419F/t51.2885-15/e35/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "edge_liked_by": {
+              "count": 22
+            },
+            "edge_media_preview_like": {
+              "count": 22
+            },
+            "owner": {
+              "id": "277494207"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/89212cd63210695f88999ce2b44d5035/5E33B252/t51.2885-15/e35/c236.0.608.608a/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6570c464288c56cde5c424f9ed0d02cc/5E2F6FCC/t51.2885-15/e35/c236.0.608.608a/s150x150/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/43864e23da45a9c106865f01e7f04690/5E018193/t51.2885-15/e35/c236.0.608.608a/s240x240/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d113dc3d213c0a57cfdafa5855a29906/5E359C48/t51.2885-15/e35/c236.0.608.608a/s320x320/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c6efdace6d0237d53af75ef00b50aef0/5E33D659/t51.2885-15/e35/c236.0.608.608a/s480x480/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/89212cd63210695f88999ce2b44d5035/5E33B252/t51.2885-15/e35/c236.0.608.608a/12940958_171696246557933_1410881295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1227290954830225717",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Jacquiipp and I are anchoring this week's North Gate Radio show Thursday at 9am on KALX 90.7. It's gonna be awesome and/or hilarious."
+                  }
+                }
+              ]
+            },
+            "shortcode": "BEINp72tKE1",
+            "edge_media_to_comment": {
+              "count": 5
+            },
+            "taken_at_timestamp": 1460524504,
+            "dimensions": {
+              "height": 809,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/c5967375f2454f2a0419b3cdd7a36819/5E2D6C0B/t51.2885-15/e35/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "edge_liked_by": {
+              "count": 42
+            },
+            "edge_media_preview_like": {
+              "count": 42
+            },
+            "owner": {
+              "id": "25798367"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/d3540d61ceef9c1f89a65a45ab65149a/5E16C6C8/t51.2885-15/sh0.08/e35/c135.0.809.809a/s640x640/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/48706d4b8fc23f6449ee72d8e4b455c1/5E01479E/t51.2885-15/e35/c135.0.809.809a/s150x150/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/017f9c6a0a0537c8a6479d559e06218b/5E19ED26/t51.2885-15/e35/c135.0.809.809a/s240x240/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e775e1d38adc5dfc43f512b70d9b7d69/5E167386/t51.2885-15/e35/c135.0.809.809a/s320x320/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/4f8c81def46afa074538a893caf42b81/5E229C6C/t51.2885-15/e35/c135.0.809.809a/s480x480/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d3540d61ceef9c1f89a65a45ab65149a/5E16C6C8/t51.2885-15/sh0.08/e35/c135.0.809.809a/s640x640/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1223647852044874157",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Just got to meet Somini Sengupta! Can't wait to read this!"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BD7RTz_TfGt",
+            "edge_media_to_comment": {
+              "count": 2
+            },
+            "taken_at_timestamp": 1460090212,
+            "dimensions": {
+              "height": 750,
+              "width": 750
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/cdaf13f611a0956dc3133df2e0dcdfd8/5E26B9DB/t51.2885-15/e35/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+            "edge_liked_by": {
+              "count": 17
+            },
+            "edge_media_preview_like": {
+              "count": 17
+            },
+            "owner": {
+              "id": "806014987"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/a0929236f6c4a100a90eb9d6ddb6e6f1/5E38D73E/t51.2885-15/sh0.08/e35/s640x640/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f654be1d96c6c30f77d85cdb11174ccf/5E3C9C99/t51.2885-15/e35/s150x150/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/1d52b6a25e1bd5dba0c0dc65962ba225/5E2CC8D3/t51.2885-15/e35/s240x240/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/79006855c3b23b138db30f8270c68384/5E22A569/t51.2885-15/e35/s320x320/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d5fe726dbb54dce8ac1aabe28f73ff7b/5E1F3533/t51.2885-15/e35/s480x480/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a0929236f6c4a100a90eb9d6ddb6e6f1/5E38D73E/t51.2885-15/sh0.08/e35/s640x640/28763124_1795236344119151_874840088930942976_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=111",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1220536549432081191",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Love the JSchool #wisteria #spring #berkeley #flowers #ucb #ucberkeley #logansymposium2016"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BDwN4ZoR7sn",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1459719316,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/e3bef3f8a8f670ad61d125b0416b410f/5E016B18/t51.2885-15/e35/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+            "edge_liked_by": {
+              "count": 15
+            },
+            "edge_media_preview_like": {
+              "count": 15
+            },
+            "owner": {
+              "id": "5374589"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/92eda194e53b844b28e9f8da38f0c19d/5E1B14D4/t51.2885-15/sh0.08/e35/s640x640/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c01cc52e3ec380b96f52801f8d9014d7/5E310C10/t51.2885-15/e35/s150x150/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/fe05b005dc8cdc3398632f9ccd8370cf/5E02644F/t51.2885-15/e35/s240x240/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/77d4a52ae2edc4874903bfc159d38a0d/5E3A0194/t51.2885-15/e35/s320x320/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/36d824733f8ac6f265e011fa9668dd87/5E25B985/t51.2885-15/e35/s480x480/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/92eda194e53b844b28e9f8da38f0c19d/5E1B14D4/t51.2885-15/sh0.08/e35/s640x640/12907173_1742749552615653_513081097_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1218281865855231277",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Who will be the cops? Who will be the robbers? Who will be victorious? Who will get tagged out within the first 5 minutes?Come tomorrow night to find out!\n\nMeet at North Gate (Hearst & Euclid) at 8pm. We will start the game at 8:15. If you come after it starts, you can't play, so be on time! Come with warm clothes and your game face on (and maybe some money for the end 🍦). Oh, and invite your friends! It's going to be a good-ole friendly competition. #berkeleycru"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BDoNOb6meUt",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1459450537,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/1d0b3b3e94724c4345410eb80c70d18c/5E1A013F/t51.2885-15/e35/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+            "edge_liked_by": {
+              "count": 15
+            },
+            "edge_media_preview_like": {
+              "count": 15
+            },
+            "owner": {
+              "id": "1474856656"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/2a08b7d1a704fc5025815e4245d01201/5E1B37F3/t51.2885-15/sh0.08/e35/s640x640/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/7fb7563b672cfad26dc611859da166ff/5E3D3037/t51.2885-15/e35/s150x150/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/03a44f459e464745fe2bedae2530d71b/5E18D968/t51.2885-15/e35/s240x240/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/890879d1bcc2e63cabc27eeef89ccf75/5E1DCFB3/t51.2885-15/e35/s320x320/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c75ca28297c401327811dcef7304de05/5E0251A2/t51.2885-15/e35/s480x480/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/2a08b7d1a704fc5025815e4245d01201/5E1B37F3/t51.2885-15/sh0.08/e35/s640x640/12424920_209508962759432_2120947691_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1163479905070268654",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "It's officially on:)"
+                  }
+                }
+              ]
+            },
+            "shortcode": "BAlgs8tBMDu",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1452917634,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/b98a3554777fa31f79aad27b29696b8a/5E37EDD8/t51.2885-15/e35/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+            "edge_liked_by": {
+              "count": 8
+            },
+            "edge_media_preview_like": {
+              "count": 8
+            },
+            "owner": {
+              "id": "1482765303"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/fd9aa89171b18928c062010494ef3b18/5E186773/t51.2885-15/sh0.08/e35/s640x640/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/247ea01574559c711734728f1ed3d582/5E2CDF12/t51.2885-15/e35/s150x150/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c0fd5a983edf7c02f469617f1dd41d1e/5E1BBEAA/t51.2885-15/e35/s240x240/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e7c7d51daf83da8cbf8d0646b68131ed/5E03470A/t51.2885-15/e35/s320x320/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/02075a83e2926344a53dc1dad080ef42/5E18A7E0/t51.2885-15/e35/s480x480/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/fd9aa89171b18928c062010494ef3b18/5E186773/t51.2885-15/sh0.08/e35/s640x640/12534424_1543205242664383_1792555585_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1147443700065135632",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Here's to one of the most aggressively humble people I had the good fortune of calling a professor of mine. Grabs was the grit of the jschool, and I'm so sad I won't be able to gleefully watch him teach the children of visiting jschoolers to swear with honesty and vigor."
+                  }
+                }
+              ]
+            },
+            "shortcode": "_sifc-JGwQ",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1451005970,
+            "dimensions": {
+              "height": 675,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/0271f973a5a53d9e02613a4af5c0a5dd/5E3BA4C3/t51.2885-15/e35/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+            "edge_liked_by": {
+              "count": 24
+            },
+            "edge_media_preview_like": {
+              "count": 24
+            },
+            "owner": {
+              "id": "37237330"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/04c0306a515761132b07811625df41e1/5E16FEA6/t51.2885-15/e35/c180.0.600.600a/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5e584531171e51748b5932bae217976c/5E378DD6/t51.2885-15/e35/c180.0.600.600a/s150x150/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/da3d228b69014cd117dce6d652f6e112/5E18D48A/t51.2885-15/e35/c180.0.600.600a/s240x240/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d61f34466d7043bbe22c6c554d27a684/5E031570/t51.2885-15/e35/c180.0.600.600a/s320x320/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/1d89731af18e0981b5f7b9faec4312dd/5E24C8C7/t51.2885-15/e35/c180.0.600.600a/s480x480/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/04c0306a515761132b07811625df41e1/5E16FEA6/t51.2885-15/e35/c180.0.600.600a/12362414_148031525565620_736947397_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "comments_disabled": false,
+            "id": "1137538373512758353",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "北方  #plzletmesleep"
+                  }
+                }
+              ]
+            },
+            "shortcode": "_JWR-vmoRR",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1449825163,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/e36420ad0a83c148970c93a6b1808f14/5E2F5C0D/t51.2885-15/e35/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "edge_liked_by": {
+              "count": 334
+            },
+            "edge_media_preview_like": {
+              "count": 334
+            },
+            "owner": {
+              "id": "827621696"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/8e72affda8264926ca512f0073196cec/5E1925C1/t51.2885-15/sh0.08/e35/s640x640/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5fac1e910496e049515f6ecef4f9a0dc/5E3C0E05/t51.2885-15/e35/s150x150/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/de34401d592e2fdf28e97f70e0d3c2d1/5E1A9B5A/t51.2885-15/e35/s240x240/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5378a1310c2fe2cb3537bf1fe385a541/5E3B9681/t51.2885-15/e35/s320x320/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8477a3fd9bbc985080d893110e9bf931/5E1D1390/t51.2885-15/e35/s480x480/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8e72affda8264926ca512f0073196cec/5E1925C1/t51.2885-15/sh0.08/e35/s640x640/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        }
+      ]
+    },
+    "edge_location_to_top_posts": {
+      "count": 9,
+      "page_info": {
+        "has_next_page": false,
+        "end_cursor": null
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "1028474798106228591",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "\"Nostalgia.\"\nPhoto & comment by @asantosoo #regram #berkeleypov #ucberkeley"
+                  }
+                }
+              ]
+            },
+            "shortcode": "5F4GE5kDdv",
+            "edge_media_to_comment": {
+              "count": 8
+            },
+            "taken_at_timestamp": 1436823771,
+            "dimensions": {
+              "height": 640,
+              "width": 640
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/e957cfce4e9c11bd72f874e764ec4496/5E32D8C1/t51.2885-15/e35/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+            "edge_liked_by": {
+              "count": 1180
+            },
+            "edge_media_preview_like": {
+              "count": 1180
+            },
+            "owner": {
+              "id": "249761036"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/e957cfce4e9c11bd72f874e764ec4496/5E32D8C1/t51.2885-15/e35/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/31bd735db2127885441c2063f1ae04e0/5E16D90B/t51.2885-15/e35/s150x150/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a99bd10c6b96bd9839f08cf18a5ed1e4/5E232FB3/t51.2885-15/e35/s240x240/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/ceda98629bce28c2801bfc0684319840/5E307D13/t51.2885-15/e35/s320x320/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/c315a3b09527414e9e5d9db7caddc574/5E37D1F9/t51.2885-15/e35/s480x480/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e957cfce4e9c11bd72f874e764ec4496/5E32D8C1/t51.2885-15/e35/10844171_1626857457593820_1062978309_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "962774537970546514",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "hello, I'm just here to announce I'm moving into the journalism school and no one can tell me it's like frowned upon or whatever"
+                  }
+                }
+              ]
+            },
+            "shortcode": "1cdldehndS",
+            "edge_media_to_comment": {
+              "count": 9
+            },
+            "taken_at_timestamp": 1428991690,
+            "dimensions": {
+              "height": 640,
+              "width": 640
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/ba32a57eaaa7aa0091fc782054d158a2/5E318C55/t51.2885-15/e15/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+            "edge_liked_by": {
+              "count": 138
+            },
+            "edge_media_preview_like": {
+              "count": 138
+            },
+            "owner": {
+              "id": "11085412"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/ba32a57eaaa7aa0091fc782054d158a2/5E318C55/t51.2885-15/e15/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/824cf72f807139dac24d33c19e0984fd/5E03331B/t51.2885-15/e15/s150x150/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/b6e64127490cf3dc8b0c9ce642925001/5E321044/t51.2885-15/e15/s240x240/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6d7fea018753fb140d1023ed59d33a2e/5E1C1D9F/t51.2885-15/e15/s320x320/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a389abc81af92fc1190c1b33465f8f4b/5E1E908E/t51.2885-15/e15/s480x480/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/ba32a57eaaa7aa0091fc782054d158a2/5E318C55/t51.2885-15/e15/11142768_1378568832472206_451532644_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "908242911811332525",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Drawing Board | George Ezra"
+                  }
+                }
+              ]
+            },
+            "shortcode": "yauh3AR-mt",
+            "edge_media_to_comment": {
+              "count": 3
+            },
+            "taken_at_timestamp": 1422491013,
+            "dimensions": {
+              "height": 640,
+              "width": 640
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/2c01360e53a582018baf12a9be8ee733/5E3DC430/t51.2885-15/e15/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "edge_liked_by": {
+              "count": 110
+            },
+            "edge_media_preview_like": {
+              "count": 110
+            },
+            "owner": {
+              "id": "186589601"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/2c01360e53a582018baf12a9be8ee733/5E3DC430/t51.2885-15/e15/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6f7d25f16e1bbfe41397e0f0c30ad019/5E1F7F4F/t51.2885-15/e15/s150x150/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/3d91659640c1a0dbe79f7898f6abc17b/5E2152F7/t51.2885-15/e15/s240x240/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/fd81b4d23a85244398f379e20a49fd86/5E2E6757/t51.2885-15/e15/s320x320/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/a8ae4e7781141b993eb36984e07fd041/5E3977BD/t51.2885-15/e15/s480x480/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/2c01360e53a582018baf12a9be8ee733/5E3DC430/t51.2885-15/e15/10914581_1388378708137330_1502449152_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "469695542429819659",
+            "edge_media_to_caption": {
+              "edges": []
+            },
+            "shortcode": "aEsZt3HSML",
+            "edge_media_to_comment": {
+              "count": 3
+            },
+            "taken_at_timestamp": 1370212093,
+            "dimensions": {
+              "height": 612,
+              "width": 612
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/992c7207ea1a67d01305e5383c2e8f42/5E1B4A34/t51.2885-15/e15/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "edge_liked_by": {
+              "count": 107
+            },
+            "edge_media_preview_like": {
+              "count": 107
+            },
+            "owner": {
+              "id": "30686863"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/992c7207ea1a67d01305e5383c2e8f42/5E1B4A34/t51.2885-15/e15/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f5e3b35203cb984b6f9fb4f20a32a71b/5E1F9D5A/t51.2885-15/e15/s150x150/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/3fe697ce88c07b92f042a38c47fc428f/5E1F6D06/t51.2885-15/e15/s240x240/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/435ea3ab6d385dfc33585d6401350f62/5E2031FC/t51.2885-15/e15/s320x320/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/4477320075fb9902d1b18953c7aefa33/5E2D704B/t51.2885-15/e15/s480x480/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/992c7207ea1a67d01305e5383c2e8f42/5E1B4A34/t51.2885-15/e15/11356572_664514603692978_813291446_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "1137538373512758353",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "北方  #plzletmesleep"
+                  }
+                }
+              ]
+            },
+            "shortcode": "_JWR-vmoRR",
+            "edge_media_to_comment": {
+              "count": 0
+            },
+            "taken_at_timestamp": 1449825163,
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/e36420ad0a83c148970c93a6b1808f14/5E2F5C0D/t51.2885-15/e35/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "edge_liked_by": {
+              "count": 334
+            },
+            "edge_media_preview_like": {
+              "count": 334
+            },
+            "owner": {
+              "id": "827621696"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/8e72affda8264926ca512f0073196cec/5E1925C1/t51.2885-15/sh0.08/e35/s640x640/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5fac1e910496e049515f6ecef4f9a0dc/5E3C0E05/t51.2885-15/e35/s150x150/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/de34401d592e2fdf28e97f70e0d3c2d1/5E1A9B5A/t51.2885-15/e35/s240x240/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5378a1310c2fe2cb3537bf1fe385a541/5E3B9681/t51.2885-15/e35/s320x320/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8477a3fd9bbc985080d893110e9bf931/5E1D1390/t51.2885-15/e35/s480x480/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/8e72affda8264926ca512f0073196cec/5E1925C1/t51.2885-15/sh0.08/e35/s640x640/12357583_564480337039432_1006776511_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "679800487621085772",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Vivian Maier’s selfie.\nVivian Maier (1926–2009), born in NYC and raised in the U.S. and France, worked as a nanny in Chicago for about 40 years. She was also an incredible, self-taught street photographer.\nAn exhibition of Maier’s photos, “See All About It,” will be in North Gate Hall at the new Reva and David Logan Gallery of Documentary Photography. The gallery is just one part of a landmark gift from the Logan Foundation.\nYou can read more about Vivian Maier and the Logan Foundation gift at http://bit.ly/JschoolMaier on the UC Berkeley NewsCenter site.\n#cal #ucberkeley #vivianmaier #bwwednesday\nPhoto courtesy of the Jeffrey Goldstein collection."
+                  }
+                }
+              ]
+            },
+            "shortcode": "lvIvEWyspM",
+            "edge_media_to_comment": {
+              "count": 14
+            },
+            "taken_at_timestamp": 1395258554,
+            "dimensions": {
+              "height": 640,
+              "width": 640
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/01cc77ba5c76b8d9e9314c87008edace/5E3D0E7B/t51.2885-15/e15/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "edge_liked_by": {
+              "count": 397
+            },
+            "edge_media_preview_like": {
+              "count": 397
+            },
+            "owner": {
+              "id": "10249785"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/01cc77ba5c76b8d9e9314c87008edace/5E3D0E7B/t51.2885-15/e15/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d9001f500e07ba053574693254f41f35/5E1B5715/t51.2885-15/e15/s150x150/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/12c73fa2fb4ae5b1419abe1416a51e7a/5E2D8449/t51.2885-15/e15/s240x240/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/5a22a608f481a79f2091012387132361/5E01CEB3/t51.2885-15/e15/s320x320/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/adf92ba07e959c8fb39e9a0d01cb0013/5E2FA904/t51.2885-15/e15/s480x480/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/01cc77ba5c76b8d9e9314c87008edace/5E3D0E7B/t51.2885-15/e15/11328374_992365847464900_963045870_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "469567565935578139",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "XX"
+                  }
+                }
+              ]
+            },
+            "shortcode": "aEPTadoowb",
+            "edge_media_to_comment": {
+              "count": 1
+            },
+            "taken_at_timestamp": 1370196837,
+            "dimensions": {
+              "height": 612,
+              "width": 612
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/48d3a7ec0aae5f54083616863a580768/5E1F9A80/t51.2885-15/e15/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+            "edge_liked_by": {
+              "count": 49
+            },
+            "edge_media_preview_like": {
+              "count": 49
+            },
+            "owner": {
+              "id": "206142210"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/48d3a7ec0aae5f54083616863a580768/5E1F9A80/t51.2885-15/e15/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/3ebf3dda9591e992664406832dfeeebd/5E27B3CE/t51.2885-15/e15/s150x150/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/3ec869078c404c628dd80cfad1c2720b/5E335391/t51.2885-15/e15/s240x240/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/2e3ef601f31869c67fe6ab53936dbbfa/5E38CC4A/t51.2885-15/e15/s320x320/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/6ca0b8063db5cb667eaca056f44c43be/5E204B5B/t51.2885-15/e15/s480x480/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/48d3a7ec0aae5f54083616863a580768/5E1F9A80/t51.2885-15/e15/11241413_338918352976278_1836152630_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "1227290954830225717",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Jacquiipp and I are anchoring this week's North Gate Radio show Thursday at 9am on KALX 90.7. It's gonna be awesome and/or hilarious."
+                  }
+                }
+              ]
+            },
+            "shortcode": "BEINp72tKE1",
+            "edge_media_to_comment": {
+              "count": 5
+            },
+            "taken_at_timestamp": 1460524504,
+            "dimensions": {
+              "height": 809,
+              "width": 1080
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/c5967375f2454f2a0419b3cdd7a36819/5E2D6C0B/t51.2885-15/e35/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "edge_liked_by": {
+              "count": 42
+            },
+            "edge_media_preview_like": {
+              "count": 42
+            },
+            "owner": {
+              "id": "25798367"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/d3540d61ceef9c1f89a65a45ab65149a/5E16C6C8/t51.2885-15/sh0.08/e35/c135.0.809.809a/s640x640/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/48706d4b8fc23f6449ee72d8e4b455c1/5E01479E/t51.2885-15/e35/c135.0.809.809a/s150x150/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/017f9c6a0a0537c8a6479d559e06218b/5E19ED26/t51.2885-15/e35/c135.0.809.809a/s240x240/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/e775e1d38adc5dfc43f512b70d9b7d69/5E167386/t51.2885-15/e35/c135.0.809.809a/s320x320/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/4f8c81def46afa074538a893caf42b81/5E229C6C/t51.2885-15/e35/c135.0.809.809a/s480x480/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/d3540d61ceef9c1f89a65a45ab65149a/5E16C6C8/t51.2885-15/sh0.08/e35/c135.0.809.809a/s640x640/12479404_1164068503624025_1563236801_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        },
+        {
+          "node": {
+            "id": "578434593100212110",
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "At #ucberkeley #jschool with dope journalists @ogpenn @secretlife0f_b & @niemajordan \n#blackatcal"
+                  }
+                }
+              ]
+            },
+            "shortcode": "gHAzKfiSeO",
+            "edge_media_to_comment": {
+              "count": 3
+            },
+            "taken_at_timestamp": 1383174798,
+            "dimensions": {
+              "height": 640,
+              "width": 640
+            },
+            "display_url": "https://scontent-sjc3-1.cdninstagram.com/vp/ba694d74281519e99bc2838a6e8d23ff/5E2761BF/t51.2885-15/e15/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "edge_liked_by": {
+              "count": 40
+            },
+            "edge_media_preview_like": {
+              "count": 40
+            },
+            "owner": {
+              "id": "288405584"
+            },
+            "thumbnail_src": "https://scontent-sjc3-1.cdninstagram.com/vp/ba694d74281519e99bc2838a6e8d23ff/5E2761BF/t51.2885-15/e15/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+            "thumbnail_resources": [
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/697df35121d0a8094456120d442b81f9/5E2DEFD1/t51.2885-15/e15/s150x150/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 150,
+                "config_height": 150
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/08c346e0b01b2c3a29a4d1a9d15c3476/5E32BC8D/t51.2885-15/e15/s240x240/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 240,
+                "config_height": 240
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/f7d443c4bdde7a12072b50c3e1995bc9/5E02E377/t51.2885-15/e15/s320x320/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 320,
+                "config_height": 320
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/13ea116217061cb2ea845670665940ec/5E38F8C0/t51.2885-15/e15/s480x480/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 480,
+                "config_height": 480
+              },
+              {
+                "src": "https://scontent-sjc3-1.cdninstagram.com/vp/ba694d74281519e99bc2838a6e8d23ff/5E2761BF/t51.2885-15/e15/1389509_697198010293366_1398329747_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110",
+                "config_width": 640,
+                "config_height": 640
+              }
+            ],
+            "is_video": false
+          }
+        }
+      ]
+    }
+  }
+}

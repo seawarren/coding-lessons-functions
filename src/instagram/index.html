@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+    <title>Coding lessons on functions and conditionals</title>
+  </head>
+  <body>
+    <div class="container">
+
+    </div>
+    <script type="text/javascript" src="../js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="../js/bootstrap-4.3.1.bundle.min.js"></script>
+    <script type="text/javascript" src="../js/d3-5.9.7.min.js"></script>
+    <script>
+      jQuery(document).ready(function($){
+
+
+        /******
+
+          Create a new function, and assign it to the variable "parseInstagram."
+
+          This variable should take one argument, which is an image from Instagram. Make the argument 
+          variable "image".
+
+          The code I've written will call this function multiple time, each time it will pass in a 
+          different URL of an instagram photo from North Gate Hall.
+
+          Your function should return a string, which is an HTML image tag, but replacing the src 
+          attribute with the url from your argument.
+
+          To help remind you, this is the structure of an image tag:
+
+
+          <img src="photo_url.jpg">
+
+
+
+        *******/
+
+
+
+
+
+
+        $.ajax(
+          {
+            url: "../assets/instagram.json",
+            dataType: "json"
+          }).done(function(d){
+
+            for(let i = 0; i < d.location.edge_location_to_media.edges.length; i++){
+
+              $(".container").append(parseInstagram(d.location.edge_location_to_media.edges[i].node.thumbnail_resources[2].src));
+
+            }
+
+          });
+
+
+      })
+
+    </script>
+  </body>
+</html>

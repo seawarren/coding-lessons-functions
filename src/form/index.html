@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blank Template For Learning Functions</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="../css/style.css" />
+	<script type="text/javascript" src="../js/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+	jQuery(document).ready(function($) {
+
+		
+		
+        $("#submit").on("click", function(){
+          
+          
+          var n = $("#thename").val();
+          var c = $(".theirChoice:checked").val();
+
+
+        /********
+
+          Below this comment, create a function an assign it to a variable called "outputResponse."
+
+          The function should take two arguements: "name" and "choice".
+
+
+          Return a string with a message. You can check the "choice" argument with a conditional to see
+          if it is "dogs" or "cats" and alter the return message given each situation.
+
+
+        *********/
+
+          
+            
+          
+
+
+
+
+
+
+
+          /********  don't edit below this line **********/
+          $("#response").text(outputResponse(n,c));
+            
+          
+        })
+
+	});
+	</script>
+</head>
+<body>
+
+    
+  
+    
+	<div class="container">
+        
+        <h2>Sample Form</h2>
+        
+        <div class="form-group">
+            <label for="thename">What is your name?</label><br>
+            <input class="form-control" type="text" id="thename" placeholder="Your name should go here" /><br><br>
+        </div>
+   
+        <div class="form-group">
+            <label for="theirChoice">Do you like cats or dogs</label><br>
+            <input type="radio" class="theirChoice radio" name="pet"  value="dogs"> Dogs<br>
+            <input type="radio" class="theirChoice radio" name="pet" value="cats"> Cats<br>
+        </div>
+        
+        <button type="button" class="btn btn-info" id="submit">Submit You Answer</button>
+      
+		<div id="response">
+
+		</div>
+	</div>
+
+</body>
+</html>
